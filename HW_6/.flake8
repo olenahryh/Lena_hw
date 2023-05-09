@@ -1,0 +1,80 @@
+.\HW_6_Python.py:16:20: W291 trailing whitespace
+.\HW_6_Python.py:20:1: F401 'numpy as np' imported but unused
+.\HW_6_Python.py:33:80: E501 line too long (80 > 79 characters)
+.\HW_6_Python.py:37:80: E501 line too long (84 > 79 characters)
+.\HW_6_Python.py:37:85: W291 trailing whitespace
+.\HW_6_Python.py:38:80: E501 line too long (123 > 79 characters)
+.\HW_6_Python.py:43:1: E303 too many blank lines (3)
+.\HW_6_Python.py:44:80: E501 line too long (120 > 79 characters)
+.\HW_6_Python.py:59:1: E265 block comment should start with '# '
+.\HW_6_Python.py:89:80: E501 line too long (91 > 79 characters)
+.\HW_6_Python.py:94:80: E501 line too long (89 > 79 characters)
+.\HW_6_Python.py:95:80: E501 line too long (105 > 79 characters)
+.\HW_6_Python.py:96:80: E501 line too long (102 > 79 characters)
+.\HW_6_Python.py:101:17: E203 whitespace before ':'
+.\HW_6_Python.py:101:40: E203 whitespace before ':'
+.\HW_6_Python.py:101:80: E501 line too long (92 > 79 characters)
+.\HW_6_Python.py:101:81: E203 whitespace before ':'
+.\HW_6_Python.py:102:8: E225 missing whitespace around operator
+.\HW_6_Python.py:105:80: E501 line too long (94 > 79 characters)
+.\HW_6_Python.py:105:95: W291 trailing whitespace
+.\HW_6_Python.py:114:22: E231 missing whitespace after ','
+.\HW_6_Python.py:115:16: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:115:18: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:115:32: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:115:34: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:115:49: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:115:51: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:115:80: E501 line too long (89 > 79 characters)
+.\HW_6_Python.py:120:51: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:125:80: E501 line too long (112 > 79 characters)
+.\HW_6_Python.py:127:80: E501 line too long (88 > 79 characters)
+.\HW_6_Python.py:131:80: E501 line too long (91 > 79 characters)
+.\HW_6_Python.py:134:23: E231 missing whitespace after ','
+.\HW_6_Python.py:135:16: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:135:18: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:135:38: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:135:40: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:135:55: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:135:57: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:135:80: E501 line too long (102 > 79 characters)
+.\HW_6_Python.py:135:102: E703 statement ends with a semicolon
+.\HW_6_Python.py:141:80: E501 line too long (110 > 79 characters)
+.\HW_6_Python.py:145:34: E231 missing whitespace after ','
+.\HW_6_Python.py:145:80: E501 line too long (96 > 79 characters)
+.\HW_6_Python.py:149:1: E303 too many blank lines (3)
+.\HW_6_Python.py:150:22: E231 missing whitespace after ','
+.\HW_6_Python.py:151:16: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:151:18: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:151:32: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:151:34: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:151:52: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:151:54: E251 unexpected spaces around keyword / parameter equals
+.\HW_6_Python.py:151:80: E501 line too long (96 > 79 characters)
+.\HW_6_Python.py:151:96: E703 statement ends with a semicolon
+.\HW_6_Python.py:173:80: E501 line too long (85 > 79 characters)
+.\HW_6_Python.py:173:86: W291 trailing whitespace
+.\HW_6_Python.py:174:80: E501 line too long (88 > 79 characters)
+.\HW_6_Python.py:181:80: E501 line too long (110 > 79 characters)
+.\HW_6_Python.py:182:80: E501 line too long (105 > 79 characters)
+.\HW_6_Python.py:182:106: W291 trailing whitespace
+.\HW_6_Python.py:185:80: E501 line too long (116 > 79 characters)
+.\HW_6_Python.py:185:117: W291 trailing whitespace
+.\HW_6_Python.py:186:80: E501 line too long (119 > 79 characters)
+.\HW_6_Python.py:191:80: E501 line too long (122 > 79 characters)
+.\HW_6_Python.py:212:80: E501 line too long (93 > 79 characters)
+.\HW_6_Python.py:217:80: E501 line too long (112 > 79 characters)
+.\HW_6_Python.py:222:17: E203 whitespace before ':'
+.\HW_6_Python.py:222:40: E203 whitespace before ':'
+.\HW_6_Python.py:222:80: E501 line too long (92 > 79 characters)
+.\HW_6_Python.py:222:81: E203 whitespace before ':'
+.\HW_6_Python.py:223:8: E225 missing whitespace around operator
+.\HW_6_Python.py:226:80: E501 line too long (105 > 79 characters)
+.\HW_6_Python.py:226:106: W291 trailing whitespace
+.\HW_6_Python.py:232:48: W291 trailing whitespace
+.\HW_6_Python.py:235:80: E501 line too long (85 > 79 characters)
+.\HW_6_Python.py:249:1: F401 'lxml' imported but unused
+.\HW_6_Python.py:249:1: E402 module level import not at top of file
+.\HW_6_Python.py:254:1: F401 'mysql.connector' imported but unused
+.\HW_6_Python.py:254:1: E303 too many blank lines (4)
+.\HW_6_Python.py:254:1: E402 module level import not at top of file
